@@ -1,0 +1,31 @@
+_repo: De-Werken-van-William-Shakespeare--13-Overzicht-van-Shakespeare-s-leven-en-werken_22562
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burgersdijk, L. A. J. (Leendert Alexander Johannes)
+    aliases:
+    - Burgersdijk, Leendert Alexander Johannes
+    - Burgersdijk, Dr. L. A. J.
+    - Burgersdijk, Dr. L.A.J.
+    birthdate: 1828
+    deathdate: 1900
+    gutenberg_agent_id: '25415'
+    url: http://www.gutenberg.org/2009/agents/25415
+description: ''
+gutenberg_issued: '2007-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22562'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616'
+- !lcc 'PR'
+title: "De Werken van William Shakespeare\r\nOverzicht van Shakespeare's leven en\
+  \ werken"
+url: http://www.gutenberg.org/ebooks/22562
